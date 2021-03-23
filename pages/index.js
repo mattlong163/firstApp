@@ -25,14 +25,24 @@ export default function Home() {
             <p>How is the weather up there? Find out Here!</p>
           </a>
 
-          <a href="/iFrame" className={styles.card}>
+          <a href="/currencyConverter" className={styles.card}>
             <h3>Currency Converter</h3>
-            <p>how much is your money worth overseas</p>
+            <p>How much is your money worth overseas</p>
           </a>
 
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Basic weather API</h3>
-            <p>How is the weather up there? Find out Here!</p>
+            <h3>Facebook log in</h3>
+            <p>Whoooooo are you? Lets log in to find out</p>
+          </a>
+
+          <a href="/iFrame" className={styles.card}>
+            <h3>Session expiration page</h3>
+            <p>You better keep active here or we will kick you out</p>
+          </a>
+
+          <a href="https://nextjs.org/docs" className={styles.card}>
+            <h3>Some sort of API list </h3>
+            <p>maybe let it be a weather or map or something</p>
           </a>
 
         </div>
