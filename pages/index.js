@@ -30,12 +30,12 @@ export default function Home() {
             <p>How much is your money worth overseas</p>
           </a>
 
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="/login" className={styles.card}>
             <h3>Facebook log in</h3>
             <p>Whoooooo are you? Lets log in to find out</p>
           </a>
 
-          <a href="/iFrame" className={styles.card}>
+          <a href="/Timeout" className={styles.card}>
             <h3>Session expiration page</h3>
             <p>You better keep active here or we will kick you out</p>
           </a>
